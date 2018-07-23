@@ -7,4 +7,11 @@
 - configure a .env file
 - create a database
 - node_modules/.bin/sequelize db:migrate
-- npm install
+- npm start
+
+## Features
+- Routing with ExpressJS
+- Sequelize ORM
+- AuthController with authentication, forgot_password(via email Sendgrid), reset_password
+- UserController with crud operations
+- User model and migration
