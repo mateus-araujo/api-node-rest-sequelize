@@ -1,4 +1,4 @@
-# api-node-sequelize
+# api-node-rest-sequelize
 
 ## Installation and usage
 - git clone https://github.com/mateus-araujo/api-node-rest-sequelize.git
