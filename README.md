@@ -2,7 +2,7 @@
 
 ## Installation and usage
 - git clone https://github.com/mateus-araujo/api-node-rest-sequelize.git
-- cd api-node-rest-sequelize
+- cd api-node-rest-sequelize-master
 - npm install
 - configure a .env file
 - create a database
